@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **moulali1322@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
