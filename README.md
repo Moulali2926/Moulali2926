@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/search?q=data+science+gifs&tbm=isch&hl=en&chips=q:data+science+gif,g_1:animated+gif:Ys9ZVI3x36g%3D,g_1:data+visualization:VjbOO9QaykU%3D&client=firefox-b-d&sa=X&ved=2ahUKEwjW6c6Eorv_AhXMKLcAHSXLB8AQ4lYoAHoECAEQKg&biw=1440&bih=735#imgrc=JhxV-p2MFnf5HM)(https://github.com/Moulali2926)
+[![MasterHead](https://www.google.com/search?q=data+science+gifs&tbm=isch&hl=en&chips=q:data+science+gif,g_1:animated+gif:Ys9ZVI3x36g%3D,g_1:data+visualization:VjbOO9QaykU%3D&client=firefox-b-d&sa=X&ved=2ahUKEwjW6c6Eorv_AhXMKLcAHSXLB8AQ4lYoAHoECAEQKg&biw=1440&bih=735#imgrc=JhxV-p2MFnf5HM)](https://github.com/Moulali2926)
 <h1 align="center">Hi 👋, I'm Moulali Shaik</h1>
 <h3 align="center"></h3>
 <img align=“right” alt=“coding” width="400" src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>(https://github.com/Moulali2926)
